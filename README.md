@@ -13,7 +13,7 @@ My work focuses on the design, kinematics and motion planning of robotic manipul
 ### Academic Path
 
 * **MSc in Advanced Robotics**, [École Centrale de Nantes](https://www.ec-nantes.fr/), France
-* **BE/BTech**, [KPR Institute of Engineering and Technology](https://kpriet.ac.in/), Coimbatore
+* **BTech**, [KPR Institute of Engineering and Technology](https://kpriet.ac.in/), Coimbatore
 
 ### Work Experience
 

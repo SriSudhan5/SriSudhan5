@@ -22,4 +22,4 @@ My work focuses on the design, kinematics and motion planning of robotic manipul
 
 ### Get in Touch
 
-* ✉️ Contact: [LinkedIn](https://https://www.linkedin.com/in/sri-sudhan-sn/) | [Email Me](mailto:snsrisudhan@gmail.com)
+* ✉️ Contact: [LinkedIn](https://www.linkedin.com/in/sri-sudhan-sn/) | [Email Me](mailto:snsrisudhan@gmail.com)
